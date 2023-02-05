@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "name": "pen",
+      "price": "4",
+      "type": "ink",
+      "brand": "flair",
+      "id": 1
+    },
+    {
+      "name": "pencil",
+      "price": "2",
+      "type": "tib",
+      "brand": "new",
+      "id": 2
+    }
+  ]
+}
